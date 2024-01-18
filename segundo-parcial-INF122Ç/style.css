@@ -1,0 +1,21 @@
+.fondo{
+    background: rgb(116, 116, 116);
+}
+.centro{
+    display: center;
+    color: red;
+}
+
+.boton{
+    background: rgb(38, 194, 51);
+    color: white;
+}
+.boton:hover{
+    background: rgb(43, 255, 0);
+}
+.boton:active{
+    background: rgb(82, 214, 5);
+}
+
+
+
